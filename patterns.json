@@ -1,0 +1,10 @@
+{
+  "patterns": {
+    "hc_satellite": {
+      "classes": [
+        "hc-"
+      ],
+      "ids": []
+    }
+  }
+}
