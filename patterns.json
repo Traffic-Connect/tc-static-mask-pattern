@@ -2,7 +2,8 @@
   "patterns": {
     "hc_satellite": {
       "classes": [
-        "hc-"
+        "hc-",
+        "hc_"
       ],
       "ids": []
     }
