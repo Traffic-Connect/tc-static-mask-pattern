@@ -1,8 +1,16 @@
 {
   "patterns": {
+    "onlinebettingsa": {
+      "classes": [
+        "hc-",
+        "-onlinebettingsa"
+      ],
+      "ids": []
+    },
     "hc_satellite": {
       "classes": [
         "hc-",
+        "test-",
         "hc_"
       ],
       "ids": []
