@@ -4,7 +4,8 @@
       "classes": [
         "sp-",
         "wp-theme-888starz-custom-v1",
-        "888starz-custom-v1"
+        "888starz-custom-v1",
+        "header-mobile"
       ],
       "ids": []
     },
@@ -13,18 +14,30 @@
         "welcome_section",
         "wp-theme-aviator",
         "tc_aviator",
-        "body_frontend"
+        "body_frontend",
+        "mobile_ver",
+        "desktop_ver",
+        "media_block"
       ],
-      "ids": []
+      "ids": [
+        "accordionFAQ-"
+      ]
     },
     "aviator2": {
       "classes": [
         "welcome_section",
         "wp-theme-aviator2",
         "tc-aviator",
-        "body_frontend"
+        "body_frontend",
+        "mobile_ver",
+        "desktop_ver",
+        "menu-footer-menu-container",
+        "header__container",
+        "footer__container"
       ],
-      "ids": []
+      "ids": [
+        "accordionFAQ-"
+      ]
     },
     "hb_mercurius": {
       "classes": [
@@ -32,7 +45,16 @@
         "welcome-section",
         "wp-theme-hb-mercurius",
         "hb_mercurius",
-        "hb_scroll_top"
+        "hb_scroll_top",
+        "primary_menu_desktop_ver",
+        "mobile_ver",
+        "desktop_ver",
+        "header__container",
+        "desktop_menu_container",
+        "mobile_menu_button",
+        "media_block",
+        "media-block-v2",
+        "acf-innerblocks-container"
       ],
       "ids": []
     },
@@ -41,7 +63,16 @@
         "cross_brand_block",
         "welcome-section",
         "wp-theme-hb-salute",
-        "hb_salute"
+        "hb_salute",
+        "bottom_panel",
+        "desktop_menu_container",
+        "mobile_menu_button",
+        "primary_menu_desktop_ver",
+        "header__container",
+        "footer__container",
+        "media_block",
+        "media-block-v2",
+        "acf-innerblocks-container"
       ],
       "ids": [
         "howto_app_android_tab",
@@ -57,7 +88,19 @@
         "hc_satellite",
         "header_no_bottom_line",
         "secondary-menu-init",
-        "toc-menu-init"
+        "toc-menu-init",
+        "primary_menu_desktop_ver",
+        "secondary_menu_desktop_ver",
+        "wp-block-hc-alternate-group-section",
+        "wp-block-hc-container",
+        "toc_navigation",
+        "mobile_ver",
+        "desktop_ver",
+        "header__container",
+        "footer__container",
+        "bottom_panel",
+        "media_block",
+        "media-block-v2"
       ],
       "ids": []
     },
@@ -65,7 +108,10 @@
       "classes": [
         "j-",
         "wp-theme-jupiter",
-        "hb_jup"
+        "hb_jup",
+        "media_block",
+        "media-block-v2",
+        "acf-innerblocks-container"
       ],
       "ids": []
     },
@@ -73,7 +119,15 @@
       "classes": [
         "j-",
         "wp-theme-neptune",
-        "tc-neptune"
+        "tc-neptune",
+        "wp-block-tc-g-section",
+        "media_block",
+        "media-block-v2",
+        "acf-innerblocks-container",
+        "primary_menu_desktop_ver",
+        "mobile_ver",
+        "desktop_ver",
+        "header-mobile"
       ],
       "ids": [
         "scrollToTopBtn",
@@ -84,7 +138,13 @@
       "classes": [
         "s-",
         "wp-theme-saturn",
-        "tc-saturn"
+        "tc-saturn",
+        "header-mobile",
+        "page-content",
+        "primary_menu_desktop_ver",
+        "mobile_ver",
+        "desktop_ver",
+        "acf-innerblocks-container"
       ],
       "ids": []
     },
@@ -97,7 +157,17 @@
         "tsg-link--js",
         "welcome-section-hero",
         "media-block-with-sidebar",
-        "custom_title"
+        "custom_title",
+        "header__holder",
+        "header__navigation",
+        "header__menu",
+        "header__hamburger",
+        "wp-block-hc-alternate-group-section",
+        "wp-block-hc-container",
+        "media_block",
+        "media-block-v2",
+        "page-content",
+        "sgt-table-of-content"
       ],
       "ids": [
         "main",
@@ -111,7 +181,13 @@
       "classes": [
         "theme-bav-",
         "wp-theme-tc-mobile-only-theme",
-        "bav-link--js"
+        "bav-link--js",
+        "wp-block-hc-alternate-group-section",
+        "wp-block-hc-container",
+        "media_block",
+        "media-block-v2",
+        "page-content",
+        "header__holder"
       ],
       "ids": [
         "main",
@@ -123,23 +199,47 @@
         "wp-block-hc-",
         "wp-theme-onlinebettingsa",
         "onlinebettingsa",
-        "bk-rating-list-cashback"
+        "bk-rating-list-cashback",
+        "hc_popup_banners_bk",
+        "mobile_ver",
+        "desktop_ver",
+        "media_block"
       ],
       "ids": [
         "hc_popup_banners",
-        "hc_popup_banners_bk_"
+        "hc_popup_banners_bk_",
+        "accordionFAQ-"
       ]
     },
     "najle": {
       "classes": [
         "color-",
         "wp-theme-najle",
-        "najle"
+        "najle",
+        "mobile_ver",
+        "desktop_ver",
+        "media_block",
+        "media-block-v2"
       ],
       "ids": [
         "accordion_faq",
         "accordion_patch_notes"
       ]
+    },
+    "satellitegamenew": {
+      "classes": [
+        "wp-theme-satellitegamenew",
+        "toc_navigation",
+        "bottom_panel"
+      ],
+      "ids": []
+    },
+    "tc_slot_game_theme": {
+      "classes": [
+        "wp-theme-tc_slot_game_theme",
+        "sgt-table-of-content"
+      ],
+      "ids": []
     }
   }
 }
