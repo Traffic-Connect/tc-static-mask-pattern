@@ -1,19 +1,145 @@
 {
   "patterns": {
-    "onlinebettingsa": {
+    "888starz-custom-v1": {
       "classes": [
-        "hc-",
-        "-onlinebettingsa"
+        "sp-",
+        "wp-theme-888starz-custom-v1",
+        "888starz-custom-v1"
       ],
       "ids": []
     },
-    "hc_satellite": {
+    "aviator": {
       "classes": [
-        "hc-",
-        "test-",
-        "hc_"
+        "welcome_section",
+        "wp-theme-aviator",
+        "tc_aviator",
+        "body_frontend"
       ],
       "ids": []
+    },
+    "aviator2": {
+      "classes": [
+        "welcome_section",
+        "wp-theme-aviator2",
+        "tc-aviator",
+        "body_frontend"
+      ],
+      "ids": []
+    },
+    "hb_mercurius": {
+      "classes": [
+        "custom-page",
+        "welcome-section",
+        "wp-theme-hb-mercurius",
+        "hb_mercurius",
+        "hb_scroll_top"
+      ],
+      "ids": []
+    },
+    "hb_salute": {
+      "classes": [
+        "cross_brand_block",
+        "welcome-section",
+        "wp-theme-hb-salute",
+        "hb_salute"
+      ],
+      "ids": [
+        "howto_app_android_tab",
+        "howto_app_ios_tab"
+      ]
+    },
+    "hc_satellite": {
+      "classes": [
+        "wp-block-hc-",
+        "cross_brand_block",
+        "welcome-section",
+        "wp-theme-hc-satellite",
+        "hc_satellite",
+        "header_no_bottom_line",
+        "secondary-menu-init",
+        "toc-menu-init"
+      ],
+      "ids": []
+    },
+    "jupiter": {
+      "classes": [
+        "j-",
+        "wp-theme-jupiter",
+        "hb_jup"
+      ],
+      "ids": []
+    },
+    "neptune": {
+      "classes": [
+        "j-",
+        "wp-theme-neptune",
+        "tc-neptune"
+      ],
+      "ids": [
+        "scrollToTopBtn",
+        "casino"
+      ]
+    },
+    "saturn": {
+      "classes": [
+        "s-",
+        "wp-theme-saturn",
+        "tc-saturn"
+      ],
+      "ids": []
+    },
+    "tc-pkl-theme": {
+      "classes": [
+        "theme-",
+        "tsg-",
+        "wp-theme-tc-pkl-theme",
+        "pkl-season",
+        "tsg-link--js",
+        "welcome-section-hero",
+        "media-block-with-sidebar",
+        "custom_title"
+      ],
+      "ids": [
+        "main",
+        "page-top",
+        "app_banner__toggle-ios",
+        "app_banner__toggle-android",
+        "parser-page-json-"
+      ]
+    },
+    "tc_mobile_only_theme": {
+      "classes": [
+        "theme-bav-",
+        "wp-theme-tc-mobile-only-theme",
+        "bav-link--js"
+      ],
+      "ids": [
+        "main",
+        "page-top"
+      ]
+    },
+    "onlinebettingsa": {
+      "classes": [
+        "wp-block-hc-",
+        "wp-theme-onlinebettingsa",
+        "onlinebettingsa",
+        "bk-rating-list-cashback"
+      ],
+      "ids": [
+        "hc_popup_banners",
+        "hc_popup_banners_bk_"
+      ]
+    },
+    "najle": {
+      "classes": [
+        "color-",
+        "wp-theme-najle",
+        "najle"
+      ],
+      "ids": [
+        "accordion_faq",
+        "accordion_patch_notes"
+      ]
     }
   }
 }
